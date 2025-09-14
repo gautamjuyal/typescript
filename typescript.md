@@ -1,8 +1,8 @@
-## INTERFACE 
+# INTERFACE 
 
-# Definition : Interfaces are similar to classes. Used in TS to define a schema(?)/ contract that an object must adhere to.
+Interfaces are similar to classes. Used in TS to define a schema(?)/ contract that an object must adhere to.
 
-# Usage : 
+## Usage : 
 
 1. In a typescript file, an interface is defined like this: 
 
